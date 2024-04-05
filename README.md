@@ -21,6 +21,14 @@ This repository has the following Projects.
 - [Screen and Webcam Recorder](https://github.com/tanujgupta18/Python-Projects/tree/main/Screen%20and%20Webcam%20Recorder)
 - [Youtube Searching Script](https://github.com/tanujgupta18/Python-Projects/tree/main/Youtube%20Searching%20Script)
 
+### Additional Project Ideas
+- [Banking System](https://github.com/tanujgupta18/Banking-System)
+- [Digital Clock](https://github.com/tanujgupta18/Digital-Clock)
+- [Expense Tracker](https://github.com/tanujgupta18/Expense-Tracker)
+- [Internet Speed Meter](https://github.com/tanujgupta18/Internet-Speed-Meter)
+- [PDF Password Cracker](https://github.com/tanujgupta18/PDF-Password-Cracker)
+- [URL Shortener](https://github.com/tanujgupta18/URL-Shortener)
+
 ## Contribution
 Contributions are always welcome!
 
@@ -34,11 +42,3 @@ Contributions are always welcome!
 7. Wait for the pull request to merge
 
 Celebrate your first step into the open-source world and contribute more. See [GitHub Contribution Documentation](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) for more reference.
-
-## Project Ideas
-- Banking System
-- Digital Clock
-- Expense Tracker
-- Internet Speed Meter
-- PDF Password Cracker
-- URL Shortener
