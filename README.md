@@ -22,12 +22,12 @@ This repository has the following Projects.
 - [Youtube Searching Script](https://github.com/tanujgupta18/Python-Projects/tree/main/Youtube%20Searching%20Script)
 
 ### Additional Project Ideas
-- [Banking System](https://github.com/tanujgupta18/Banking-System)
-- [Digital Clock](https://github.com/tanujgupta18/Digital-Clock)
-- [Expense Tracker](https://github.com/tanujgupta18/Expense-Tracker)
-- [Internet Speed Meter](https://github.com/tanujgupta18/Internet-Speed-Meter)
-- [PDF Password Cracker](https://github.com/tanujgupta18/PDF-Password-Cracker)
-- [URL Shortener](https://github.com/tanujgupta18/URL-Shortener)
+- [Banking System](https://github.com/tanujgupta18/Python-Projects/tree/main/Banking%20System)
+- [Digital Clock](https://github.com/tanujgupta18/Python-Projects/tree/main/Digital-Clock)
+- [Expense Tracker](https://github.com/tanujgupta18/Python-Projects/tree/main/Expense-Tracker)
+- [Internet Speed Meter](https://github.com/tanujgupta18/Python-Projects/tree/main/Internet-Speed-Meter)
+- [PDF Password Cracker](https://github.com/tanujgupta18/Python-Projects/tree/main/PDF-Password-Cracker)
+- [URL Shortener](https://github.com/tanujgupta18/Python-Projects/tree/main/URL-Shortener)
 
 ## Contribution
 Contributions are always welcome!
